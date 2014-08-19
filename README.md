@@ -23,6 +23,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 
 ## Judging Criteria
 All entries will be judged on:
+
 1. How it sounds? We are looking for original and unique examples of music created with Sonic Pi in the first instance.
 1. How elegant is the code? We will also take a look at the computing concepts and skills used to create the music. Here we are looking for efficent and a higher level of coding knowledge applied, depending on the key stage of submissions. Why use a long sequence of play and sleep when you can use a loop? 
 
