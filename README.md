@@ -37,3 +37,5 @@ All entries will be judged on:
 We must receive entries by 13th October 2014, no later than 11:59:59 PM (local time)
 
 ## Lesson Plans
+- [Lesson 1]()
+- [Lesson 2]()
