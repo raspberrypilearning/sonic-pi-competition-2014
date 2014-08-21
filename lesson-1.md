@@ -42,13 +42,18 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 - [Chris Hadfield in Space](https://www.youtube.com/watch?v=Q_RB1ENTayU) 
 
 **Space Adventure**
-- Star Wars Theme
-- Star Trek Theme
+- [Star Wars Theme]()
+- [Star Trek Theme]()
+
+Introduce the Raspberry Pi Sonic Pi Competition to the students. Explain the brief to create a unique and original 2 minute musical composition in order to win a prize. 
 
 ## Main Development
-1. Split students into groups of no more than 5, and sit them at a setup Raspberry Pi. Ask them to log in using the default login `pi` and password `raspberry`. From the command line students should next type `startx` to launch the graphical user interface. Finally, direct students to open Sonic Pi 2 from the desktop by double clicking the icon.
+
+1. Split students into groups of no more than 5. Ask students in their groups to discuss their ideas for their music and start to write them down. They could undertake some research online if they have access to computers and the internet of music that might help inspire them.
+1. Ask students to sit at or setup their Raspberry Pis and log in using the default login `pi` and password `raspberry`. From the command line students should next type `startx` to launch the graphical user interface. Finally, direct students to open Sonic Pi 2 from the desktop by double clicking the icon.
 1. If this is the first time students have used Sonic Pi 2 you may wish for them to work through [this worksheet](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet.md) to get them started or refreshed. 
 1. More advanced users of Sonic Pi 2 may wish to work through [this second worksheet](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet-2.md) in order to unlock other techniques that can be used. 
+1. Demonstrate some synths or samples in Sonic Pi that may help students develop their ideas. Students should then use the rest of the time to work on their piece.
 
 ## Plenary
 Each group is invited to demonstrate the code they have written by executing it and playing the resulting music. This can be achieved by passing a speaker round to each group, and playing the music through the speaker rather than the headphones. Groups should introduce their composition explaining their creative journey with the remaining students asked to peer review, commenting constructively on what they thought worked well and why.
