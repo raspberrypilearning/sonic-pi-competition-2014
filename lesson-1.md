@@ -12,10 +12,13 @@ Through these lessons, students will have the opportunity to investigate differe
 ## Learning Outcomes
 
 ### All students are able to:
+- produce a unique and original piece of music using code in Sonic Pi 2 on a Raspberry Pi which encapsulates their response to the theme of 'Space Wonders'.
 
 ### Most students are able to:
+- describe how their unique music reflects 
 
 ### Some students are able to:
+- analyse how effective their chosen coding techniques are in creating a piece of music and refine them to be more elequant. 
 
 ## Lesson Summary
 
