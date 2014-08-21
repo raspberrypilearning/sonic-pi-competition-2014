@@ -32,6 +32,10 @@ All entries will be judged on:
 - The final 12 will introduce and play their music on a Raspberry Pi to the audience in front of an expert panel of judges.
 
 ## Prizes
+- All entries will be put into a hat to win a Raspberry Pi and SD card at random.
+- Semi finalists will win a Sonic Pi half day workshop with Sam Aaron and [Juneau Projects](http://www.juneauprojects.co.uk/) for their school and a custom Sonic Pi pibow case. There will be 12 semi finalists in total, 4 in each category.
+- Overall winners in each category will win a Sonic Pi classroom kit containing 25 x Raspberry Pis and peripherals for their school and a minirig speaker, as well as a Sonic Pi Competition trophey designed by artists Juneau projects. 
+
 
 ## Entry Deadline
 We must receive entries by 13th October 2014, no later than 11:59:59 PM (local time)
