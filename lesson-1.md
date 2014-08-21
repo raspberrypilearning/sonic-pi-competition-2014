@@ -26,7 +26,7 @@ Through these lessons, students will have the opportunity to investigate differe
 ## Lesson Summary
 
 ## Starter
-Present the theme of *Space Wonders* to the students and ask them what comes to mind. Collect their answers on the board or as part of a spider diagram. Then play one or more songs from each sub category below. Ask students what other words or ideas come to mind and add them to the spider diagram.
+Present the theme of *Space Wonders* to the students and ask them what comes to mind. Collect their answers on the board or as part of a spider diagram. Then play one or more songs from each sub category below. Ask students what other words or ideas come to mind and add them to the spider diagram. Then ask students to think about what instruments or sounds make up some of the music, for example trumpets, or drums. 
 
 **Planets**
 - [Holst's Panets](https://www.youtube.com/watch?v=Jmk5frp6-3Q&list=PLE6996668EC37137C)
@@ -42,8 +42,8 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 - [Chris Hadfield in Space](https://www.youtube.com/watch?v=Q_RB1ENTayU) 
 
 **Space Adventure**
-- [Star Wars Theme]()
-- [Star Trek Theme]()
+- [Star Wars Theme](http://upload.wikimedia.org/wikipedia/en/8/8d/StarWarsMainThemeSnippet.mid)
+
 
 Introduce the Raspberry Pi Sonic Pi Competition to the students. Explain the brief to create a unique and original 2 minute musical composition in order to win a prize. 
 
