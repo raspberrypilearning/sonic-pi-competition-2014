@@ -26,17 +26,28 @@ Through these lessons, students will have the opportunity to investigate differe
 ## Lesson Summary
 
 ## Starter
-- Houst's Panets
-- Close Encounters
+Present the theme of *Space Wonders* to the students and ask them what comes to mind. Collect their answers on the board or as part of a spider diagram. Then play one or more songs from each sub category below. Ask students what other words or ideas come to mind and add them to the spider diagram.
+
+**Planets**
+- [Holst's Panets](https://www.youtube.com/watch?v=Jmk5frp6-3Q&list=PLE6996668EC37137C)
 - [2001 Space Odessey](https://www.youtube.com/watch?v=lrFVU3wQySs)
-- Sputnik sound
-- Voyger plasma sound
-- Star wars? 
-- Curiosity Rover Plays First Song Transmitted From Another Planet
+
+**Alien Encounters**
+- [Close Encounters](https://www.youtube.com/watch?v=rnYCboElgHs)
+
+**Real space exploration**
+- [Sputnik sound](http://www.skygod.com/audiovideo/sputnik.mp3)
+- [Voyger plasma sound]()
+- [Curiosity Rover Plays First Song Transmitted From Another Planet]()
 - [Chris Hadfield in Space](https://www.youtube.com/watch?v=Q_RB1ENTayU) 
 
+**Space Adventure**
+- Star Wars Theme
+- Star Trek Theme
 
 ## Main Development
+1. Split students into groups of no more than 5, and sit them at a setup Raspberry Pi. Ask them to log in using the default login `pi` and password `raspberry`. From the command line students should next type `startx` to launch the graphical user interface. Finally, direct students to open Sonic Pi 2 from the desktop by double clicking the icon.
+1. 
 
 ## Plenary
 Each group is invited to demonstrate the code they have written by executing it and playing the resulting music. This can be achieved by passing a speaker round to each group, and playing the music through the speaker rather than the headphones. Groups should introduce their composition explaining their creative journey with the remaining students asked to peer review, commenting constructively on what they thought worked well and why.
