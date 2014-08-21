@@ -5,7 +5,7 @@
 
 Why are we fascinated by space? – what is it about looking up and imaginging what is out there, that has spawned science fiction novels, films, poetry, art and music for hundreds of years? Space has been refered to as the final fontier.
 
-Through these lessons, students will have the opportunity to investigate different types of music created to celebrate the wonders of Space. [2001 Space Odessey](https://www.youtube.com/watch?v=lrFVU3wQySs)
+Through these lessons, students will have the opportunity to investigate different types of music created to celebrate the wonders of Space. 
 
 ## Learning Objectives
 - Investigate other artists interpreation of space as a theme for music.
