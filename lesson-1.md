@@ -17,7 +17,6 @@ Through these lessons, students will have the opportunity to investigate differe
 - begin to produce a unique and original piece of music using code in Sonic Pi 2 on a Raspberry Pi which encapsulates their response to the theme of *Space Wonders*.
 - be able to describe how their unique music reflects the competition theme of *Space Wonders* and their creative journey.
 
-
 ## Lesson Summary
 
 ## Starter
