@@ -19,7 +19,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 1. The audio file must be no longer than **2 minutes** and the code should be no longer than **200 lines**, not including comments. (we are looking for short elequent code see example).
 1. When you are ready to submit your entries, please return to the website to complete the [online entry form](). 
 1. We must receive entries by **13th October 2014**, no later than 11:59:59 PM (local time).
-1. By submitting an entry you agree for it to be released under [the CC-BY-SA licence](https://creativecommons.org/licenses/by-sa/4.0/) and postentially hosted on our website. 
+1. By submitting an entry you agree for it to be released under [the CC-BY-SA licence](https://creativecommons.org/licenses/by-sa/4.0/) and potentially hosted on our website. 
 
 ## Judging Criteria
 All entries will be judged on:
