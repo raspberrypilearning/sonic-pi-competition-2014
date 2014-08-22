@@ -14,13 +14,14 @@ In the first lesson, students concentrated on how their music sounds, creativing
 If any of the pupils have interesting cover art designs that they created as part of their homework, they are invited to present them to the class and explain their creative thought process behind their work. How does it meet the theme of space wonders, what was it about the music they began to make in the previous lesson that sparked their design? This could be done in groups or with the class as a whole. 
 
 ## Main Development
+1. Recap on the theme and work from the previous lesson in a discussion with the students. You could play some more examples of space themed music to get the creative juices flowing!
 1. Demonstrate to the students what a Sonic Pi Compeition final entry looks like and what it includes. Inform the students that by the end of the lesson they should have all four parts. You may wish to give students more time to perfect their entry for homework or during after school clubs.
   - An audio file 
   - A text file containing the code used
   - The cover art picture produced for homework
   - A short description about the entry
 
-1. 
+1. With a projector and Raspberry Pi, demonstrate some of the more advanced techniques for coding music in Sonic Pi v2.0 like modifying the paramters of the some of the effects or using random. See [this worksheet for more](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet-2.md).
 
 1. In their groups students should setup their Raspberry Pis, ensuring they use the same micro SD or SD card from the previous lesson containing their work to boot up and load Sonic Pi. They can then continue their work producing a maximum of a 2 minute track. 
 
