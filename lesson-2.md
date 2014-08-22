@@ -1,7 +1,7 @@
 # Lesson 2 - Sonic Pi Compeititon
 
 ## Introduction
-
+>"The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops." ― Joseph Weizenbaum
 
 In the first lesson, students concentrated on how their music sounds, creativing a piece of music inspired by the theme of *space wonders*. They may have used a simple sequence or loops to create it so far. In this lesson more attention could be given to adding effects, or more complex computations to improve their code.
 
