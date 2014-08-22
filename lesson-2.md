@@ -3,6 +3,8 @@
 ## Introduction
 
 
+In the first lesson, students concentrated on how their music sounds, creativing a piece of music inspired by the theme of *space wonders*. They may have used a simple sequence or loops to create it so far. In this lesson more attention could be given to adding effects, or more complex computations to improve their code.
+
 ## Learning Objectives
 
 ## Learning Outcomes
@@ -18,6 +20,9 @@ If any of the pupils have interesting cover art designs that they created as par
   - The cover art picture produced for homework
   - A short description about the entry
 
+1. 
+
+1. In their groups students should setup their Raspberry Pis, ensuring they use the same micro SD or SD card from the previous lesson containing their work to boot up and load Sonic Pi. They can then continue their work producing a maximum of a 2 minute track. 
 
 ## Plenary
-Each school can only submit up to a maximum of 3 entries to the competition. Use the end of the lesson for each group to present their work and run either an 'X-factor' style selection process with the help of some other teachers/members of staff. Alternatively, 
+Each school can only submit up to a maximum of three entries to the competition. Use the end of the lesson for each group to present their work and run either an 'X-factor' style selection process with the help of some other teachers/members of staff. Alternatively, ask students to review each others work and run a secret ballot to select the best three entries. 
