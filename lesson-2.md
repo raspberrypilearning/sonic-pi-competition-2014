@@ -6,6 +6,9 @@
 In the first lesson, students concentrated on how their music sounds, creativing a piece of music inspired by the theme of *space wonders*. They may have used a simple sequence or loops to create it so far. In this lesson more attention could be given to adding effects, or more complex computations to improve their code.
 
 ## Learning Objectives
+- Know what is required for a submission to the Raspberry Pi Sonic Pi Competition.
+- Understand that there are more elequent and efficent ways to code music with Sonic Pi v2.0
+- Be able to refine their music code ready to submit it to the competition.
 
 ## Learning Outcomes
 - analyse how effective their chosen coding techniques are in creating a piece of music and refine them to be more elequant. 
@@ -25,5 +28,7 @@ If any of the pupils have interesting cover art designs that they created as par
 
 1. In their groups students should setup their Raspberry Pis, ensuring they use the same micro SD or SD card from the previous lesson containing their work to boot up and load Sonic Pi. They can then continue their work producing a maximum of a 2 minute track. 
 
+1. Mid way through the lesson ask student groups to switch seats with one another to take a look at and play their code. Students should then reflect on their own code and see if they can refine it to use some of the practises they've seen other groups implement. 
+
 ## Plenary
-Each school can only submit up to a maximum of three entries to the competition. Use the end of the lesson for each group to present their work and run either an 'X-factor' style selection process with the help of some other teachers/members of staff. Alternatively, ask students to review each others work and run a secret ballot to select the best three entries. 
+Each school can only submit up to a maximum of three entries to the competition. Use the end of the lesson for each group to present all four elements of their work and run either an 'X-factor' style selection process with the help of some other teachers/members of staff. Alternatively, ask students to review each others work and run a secret ballot to select the best three entries. 
