@@ -4,7 +4,7 @@ Sonic Pi 2 is an open source programming environment designed to explore and tea
 
 The Sonic Pi Competition is designed to encourage eligible UK school students to use their creativity and coding knowledge to create a unique and original piece of music with Sonic Pi on a Raspberry Pi device. 
 
-The theme for this competition is Space.
+The theme for this competition is *Space Wonders*.
 
 ## Age Groups
 The competition is open to all pupils attending a **UK school** aged between 7 - 16 years. Entries will be judged in the following three categories:
@@ -13,7 +13,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 - KS4 Secondary 
 
 ## Submitting Entires
-1. Entries must be an original piece of work created using [Sonic Pi 2](https://github.com/samaaron/sonic-pi) on a Raspberry Pi.
+1. Entries must be an original piece of work created using [Sonic Pi version 2](https://github.com/samaaron/sonic-pi) on a Raspberry Pi.
 1. There is a limit of **3 entries per school**. If your school covers more than one age group please try to represent an even spread. You could perhaps hold an internal competition to select the best entries in the class or school.
 1. Entries must include an **audio file** of what the music sounds like, the **code** used to create it, a **short written description** and a **cover art** file.
 1. The audio file must be no longer than **2 minutes** and the code should be no longer than **200 lines**, not including comments. (we are looking for short elequent code see example).
@@ -41,5 +41,7 @@ All entries will be judged on:
 We must receive entries by 13th October 2014, no later than 11:59:59 PM (local time)
 
 ## Lesson Plans
-- [Lesson 1]()
-- [Lesson 2]()
+- [Lesson 1](lesson-1.md)
+- [Lesson 2](lesson-2.md)
+
+
