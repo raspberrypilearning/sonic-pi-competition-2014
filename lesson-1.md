@@ -14,7 +14,7 @@ Through these lessons, students will have the opportunity to investigate differe
 
 ## Learning Outcomes
 
-- begin to produce a unique and original piece of music using code in Sonic Pi 2 on a Raspberry Pi which encapsulates their response to the theme of *Space Wonders*.
+- begin to produce a unique and original piece of music using code in Sonic Pi v2.0 on a Raspberry Pi which encapsulates their response to the theme of *Space Wonders*.
 - be able to describe how their unique music reflects the competition theme of *Space Wonders* and their creative journey.
 
 ## Lesson Summary
@@ -45,7 +45,7 @@ Introduce the Raspberry Pi Sonic Pi Competition to the students. Explain the bri
 
 1. Split students into groups of no more than 5. Ask students in their groups to discuss their ideas for their music and start to write them down. They could undertake some research online if they have access to computers and the internet of music that might help inspire them.
 1. Ask students to sit at or setup their Raspberry Pis and log in using the default login `pi` and password `raspberry`. From the command line students should next type `startx` to launch the graphical user interface. Finally, direct students to open Sonic Pi 2 from the desktop by double clicking the icon.
-1. If this is the first time students have used Sonic Pi 2 you may wish for them to work through [this worksheet](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet.md) to get them started or refreshed. 
+1. If this is the first time students have used Sonic Pi v2.0 you may wish for them to work through [this worksheet](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet.md) to get them started or refreshed. 
 1. More advanced users of Sonic Pi 2 may wish to work through [this second worksheet](http://www.raspberrypi.org/learning/sonic-pi-2-taster/worksheet-2.md) in order to unlock other techniques that can be used. 
 1. Demonstrate some synths or samples in Sonic Pi that may help students develop their ideas. Students should then use the rest of the time to work on their piece.
 
