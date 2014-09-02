@@ -8,15 +8,11 @@ In the first lesson, students concentrated on how their music sounds, creating a
 
 ## Learning Objectives
 
-Students will:
-
 - Know what is required for a submission to the Raspberry Pi Sonic Pi Competition.
 - Understand that there are more elegant and efficient ways to code music with Sonic Pi v2.0.
 - Be able to refine their music code, ready to submit it to the competition.
 
 ## Learning Outcomes
-
-Students will:
 
 - analyse how effective their chosen coding techniques are in creating a piece of music, and refine them to be more elegant. 
 
