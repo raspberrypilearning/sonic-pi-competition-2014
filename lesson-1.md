@@ -10,15 +10,11 @@ Through these lessons, students will have the opportunity to investigate differe
 
 ## Learning Objectives
 
-Students will:
-
 - Investigate other artists' interpretation of space as a theme for music.
 - Explore and experiment with ideas, and respond creatively to the competition theme of *Space Wonders*.
 - Be able to use some code in Sonic Pi on a Raspberry Pi to begin a 2 minute musical composition on the theme.
 
 ## Learning Outcomes
-
-Students will:
 
 - Begin to produce a unique and original piece of music, using code in Sonic Pi v2.0 on a Raspberry Pi, which encapsulates their response to the theme of *Space Wonders*.
 - Be able to describe how their unique music reflects the competition theme of *Space Wonders* and their creative journey.
