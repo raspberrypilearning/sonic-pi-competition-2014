@@ -16,7 +16,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 
 ## Submitting Entries
 
-1. Entries must be an original piece of work created using [Sonic Pi v2.0](https://github.com/samaaron/sonic-pi) on a Raspberry Pi.
+1. Entries must be an original piece of work created using [Sonic Pi v2.0](http://sonic-pi.net/get-v2.0) on a Raspberry Pi.
 1. There is a limit of **3 entries per school**. If your school covers more than one age group please try to represent an even spread. You could perhaps hold an internal competition to select the best entries in the class or school.
 1. Individuals and groups can enter. The maximum group size allowed is 5 members. 
 1. Entries must include an **audio file** of what the music sounds like, the **code** used to create it, a **short written description**, and a **cover art** file.
