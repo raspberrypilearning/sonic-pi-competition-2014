@@ -54,7 +54,7 @@ We must receive entries by 13th October 2014, no later than 11:59:59 PM (local t
 
 - [Lesson 1](lesson-1.md)
 - [Lesson 2](lesson-2.md)
-- [Sonic Pi v2.0 Competition Poster](images/Sonic_Pi_Competition_Poster_SCHOOL_PRINT)
+- [Sonic Pi v2.0 Competition Poster](images/Sonic_Pi_Competition_Poster_SCHOOL_PRINT?raw=true)
 
 
 ## Licence
