@@ -6,7 +6,7 @@ The Sonic Pi Competition is designed to encourage eligible UK school students to
 
 The theme for this competition is *Space Wonders*.
 
-![](images/Sonic_Pi_Competition_Poster_WEB.jpg)
+![](images/Sonic_Pi_Competition_Poster_WEB1.jpg)
 
 ## Age Groups
 
