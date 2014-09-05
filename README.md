@@ -6,6 +6,8 @@ The Sonic Pi Competition is designed to encourage eligible UK school students to
 
 The theme for this competition is *Space Wonders*.
 
+![](images/Sonic_Pi_Competition_Poster_WEB.jpg)
+
 ## Age Groups
 
 The competition is open to all pupils attending a **UK school** aged between 7 - 16 years. Entries will be judged in the following three categories:
