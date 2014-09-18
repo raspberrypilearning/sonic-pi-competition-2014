@@ -37,7 +37,7 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 - [Chris Hadfield in Space](https://www.youtube.com/watch?v=B4olOmOgNn0) 
 
 **Space adventure**
-- [Star Wars Theme](http://upload.wikimedia.org/wikipedia/en/8/8d/StarWarsMainThemeSnippet.mid)
+- [Star Wars Theme](https://www.youtube.com/watch?v=JG5OsfOuEy0)
 
 
 Introduce the Raspberry Pi Sonic Pi Competition to the students. Explain the brief to create a unique and original 2 minute musical composition, in order to win a prize. 
