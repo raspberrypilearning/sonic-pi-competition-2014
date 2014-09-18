@@ -34,8 +34,6 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 
 **Real space exploration**
 - [Sputnik sound](http://www.skygod.com/audiovideo/sputnik.mp3)
-- [Voyager plasma sound]()
-- [Curiosity Rover Plays First Song Transmitted From Another Planet]()
 - [Chris Hadfield in Space](https://www.youtube.com/watch?v=Q_RB1ENTayU) 
 
 **Space adventure**
