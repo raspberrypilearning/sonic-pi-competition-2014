@@ -34,7 +34,7 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 
 **Real space exploration**
 - [Sputnik sound](http://www.skygod.com/audiovideo/sputnik.mp3)
-- [Chris Hadfield in Space](https://www.youtube.com/watch?v=Q_RB1ENTayU) 
+- [Chris Hadfield in Space](https://www.youtube.com/watch?v=B4olOmOgNn0) 
 
 **Space adventure**
 - [Star Wars Theme](http://upload.wikimedia.org/wikipedia/en/8/8d/StarWarsMainThemeSnippet.mid)
