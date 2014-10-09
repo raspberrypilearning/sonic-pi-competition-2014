@@ -24,7 +24,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 1. The audio file must be no longer than **2 minutes** and the code should be no longer than **200 lines**, not including comments. (We are looking for short, elegant code).
 1. The code must be executable on our office Raspberry Pi. It therefore needs to be only one file, only use the synths and samples available in Sonic Pi v2.0, and not require any overclocking.
 1. When you are ready to submit your entries, please return to the website to complete the [online entry form](http://raspberrypi.org/competitions/sonic-pi/enter).
-1. We must receive entries by **13th October 2014**, no later than 11:59:59 PM (local time).
+1. We must receive entries by **9th January 2015**, no later than 11:59:59 PM (local time).
 1. By submitting an entry you agree for it to be released under [the CC-BY-SA licence](https://creativecommons.org/licenses/by-sa/4.0/) and potentially hosted on our website.
 1. You must be avaliable to attend the final if you are selected as one of the 12 semi-finalists on 4th November 2014 in Cambridge, UK.
 
