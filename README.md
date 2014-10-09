@@ -20,7 +20,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 
 1. Entries must be an original piece of work created using [Sonic Pi v2.0](http://sonic-pi.net/get-v2.0) on a Raspberry Pi.
 1. Individuals and groups can enter. The maximum group size allowed is 5 members.
-1. Entries must include an **audio file** of what the music sounds like, the **code** used to create it, a **short written description**, and a **cover art** file.
+1. Entries must include an **audio file** of what the music sounds like and the **code** used to create it. A **short written description** and a **cover art** file are prefered but not essential. 
 1. The audio file must be no longer than **2 minutes** and the code should be no longer than **200 lines**, not including comments. (We are looking for short, elegant code).
 1. The code must be executable on our office Raspberry Pi. It therefore needs to be only one file, only use the synths and samples available in Sonic Pi v2.0, and not require any overclocking.
 1. When you are ready to submit your entries, please return to the website to complete the [online entry form](http://raspberrypi.org/competitions/sonic-pi/enter).
