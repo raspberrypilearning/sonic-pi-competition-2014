@@ -37,8 +37,7 @@ All entries will be judged on:
 
 ## The Final
 
-- The final will take place at the Cambridge Junction on 4th November as part of the Sonic Pi Live & Coding Summit.
-- The final 12 will introduce and play their music on a Raspberry Pi to the audience in front of an expert panel of judges.
+- The final 12 will introduce and play their music on a Raspberry Pi to the audience in front of an expert panel of judges at an event yet to be confirmed.
 
 ## Prizes
 
