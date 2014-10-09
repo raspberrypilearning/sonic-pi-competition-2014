@@ -48,7 +48,7 @@ All entries will be judged on:
 
 ## Entry Deadline
 
-We must receive entries by 13th October 2014, no later than 11:59:59 PM (local time)
+We must receive entries by 9th January 2015, no later than 11:59:59 PM (local time)
 
 ## Lesson Plans & Resources
 
