@@ -8,18 +8,18 @@ Why are we fascinated by space? What is it about looking up and imagining what i
 
 Through these lessons, students will have the opportunity to investigate different types of music created to celebrate the wonders of space. 
 
-## Learning Objectives
+## Learning objectives
 
 - Investigate other artists' interpretation of space as a theme for music.
 - Explore and experiment with ideas, and respond creatively to the competition theme of *Space Wonders*.
 - Be able to use some code in Sonic Pi on a Raspberry Pi to begin a 2 minute musical composition on the theme.
 
-## Learning Outcomes
+## Learning outcomes
 
 - Begin to produce a unique and original piece of music, using code in Sonic Pi v2.0 on a Raspberry Pi, which encapsulates their response to the theme of *Space Wonders*.
 - Be able to describe how their unique music reflects the competition theme of *Space Wonders* and their creative journey.
 
-## Lesson Summary
+## Lesson summary
 
 ### Starter
 
@@ -42,7 +42,7 @@ Present the theme of *Space Wonders* to the students and ask them what comes to 
 
 Introduce the Raspberry Pi Sonic Pi Competition to the students. Explain the brief to create a unique and original 2 minute musical composition, in order to win a prize. 
 
-## Main Development
+## Main development
 
 1. Split students into groups of no more than 5. Ask students in their groups to discuss their ideas for their music and start to write them down. They could undertake some research online for music that might help inspire them, if they have access to computers and the internet.
 1. Ask students to set up their Raspberry Pis and log in using the default login `pi` and password `raspberry`. From the command line, students should next type `startx` to launch the graphical user interface. Finally, direct students to open Sonic Pi v2.0 from the desktop by double-clicking the icon.
