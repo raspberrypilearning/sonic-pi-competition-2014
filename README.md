@@ -28,7 +28,7 @@ The competition is open to all pupils attending a **UK school** aged between 7 -
 1. When you are ready to submit your entries, please return to the website to complete the [online entry form](http://raspberrypi.org/competitions/sonic-pi/enter).
 1. We must receive entries by **9th January 2015**, no later than 11:59:59 PM (local time).
 1. By submitting an entry you agree for it to be released under [the CC-BY-SA licence](https://creativecommons.org/licenses/by-sa/4.0/) and potentially hosted on our website.
-1. You must be avaliable to attend the final if you are selected as one of the 12 semi-finalists (date and venue to be announced).
+1. Please be avaliable to attend the final if you are selected as one of the 10 semi-finalists (date and venue to be announced).
 
 ## Judging criteria
 
@@ -39,7 +39,7 @@ All entries will be judged on:
 
 ## The final
 
-- The final 12 will introduce and play their music on a Raspberry Pi to the audience in front of an expert panel of judges at an event yet to be confirmed.
+- The final 10 may get the chance to introduce and play their music on a Raspberry Pi to an audience in front of an expert panel of judges at an event yet to be confirmed.
 
 ## Prizes
 
